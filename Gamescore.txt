@@ -26,3 +26,4 @@ Level 25 - Hoth Hunt: 33
 Level 26 - Felucia Hunt: 20
 Level 27 - Coruscant Hunt: 31
 Level 28 - Tantive IV Conquest: 15
+Level 29 - Tantive IV CTF: 7
