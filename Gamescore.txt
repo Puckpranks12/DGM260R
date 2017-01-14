@@ -24,3 +24,4 @@ Level 23 - Endor CTF: 9
 Level 24 - Polis Massa CTF: 23
 Level 25 - Hoth Hunt: 33
 Level 26 - Felucia Hunt: 20
+Level 27 - Coruscant Hunt: 31
