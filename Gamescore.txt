@@ -13,3 +13,4 @@ Level 12 - Mos Eisley Hunt: 12
 Level 13 - Hoth Conquest: 91
 Level 14 - Endor Conquest: 60
 Level 15 - Endor Hunt: 51
+Level 16 - Coruscant Assault: 30
