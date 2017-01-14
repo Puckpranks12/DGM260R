@@ -5,3 +5,4 @@ Level 4 - Geonosis Hunt: 17
 Level 5 - Jabba's Palace Conquest: 59
 Level 6 - Kamino Conquest: 61
 Level 7 - Mos Eisley Conquest: 39
+Level 8 - Mygeeto Conquest: 61
