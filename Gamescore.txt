@@ -23,3 +23,4 @@ Level 22 - Jabba's Palace Assault: 15
 Level 23 - Endor CTF: 9
 Level 24 - Polis Massa CTF: 23
 Level 25 - Hoth Hunt: 33
+Level 26 - Felucia Hunt: 20
