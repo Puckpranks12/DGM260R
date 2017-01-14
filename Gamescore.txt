@@ -11,3 +11,4 @@ Level 10 - Naboo Hunt: 4
 Level 11 - Polis Massa Conquest: 13
 Level 12 - Mos Eisley Hunt: 12
 Level 13 - Hoth Conquest: 91
+Level 14 - Endor Conquest: 60
