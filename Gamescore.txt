@@ -9,3 +9,4 @@ Level 8 - Mygeeto Conquest: 61
 Level 9 - Naboo Conquest: 68
 Level 10 - Naboo Hunt: 4
 Level 11 - Polis Massa Conquest: 13
+Level 12 - Mos Eisley Hunt: 12
