@@ -18,3 +18,4 @@ Level 17 - Kamino CTF: 23
 Level 18 - Mos Eisley CTF: 16
 Level 19 - Jabba's Palace CTF: 25
 Level 20 - Mygeeto Assault: 36
+Level 21 - Geonosis CTF: 31
