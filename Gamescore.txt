@@ -14,3 +14,4 @@ Level 13 - Hoth Conquest: 91
 Level 14 - Endor Conquest: 60
 Level 15 - Endor Hunt: 51
 Level 16 - Coruscant Assault: 30
+Level 17 - Kamino CTF: 23
