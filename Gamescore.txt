@@ -15,3 +15,4 @@ Level 14 - Endor Conquest: 60
 Level 15 - Endor Hunt: 51
 Level 16 - Coruscant Assault: 30
 Level 17 - Kamino CTF: 23
+Level 18 - Mos Eisley CTF: 16
