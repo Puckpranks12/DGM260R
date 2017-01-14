@@ -7,3 +7,4 @@ Level 6 - Kamino Conquest: 61
 Level 7 - Mos Eisley Conquest: 39
 Level 8 - Mygeeto Conquest: 61
 Level 9 - Naboo Conquest: 68
+Level 10 - Naboo Hunt: 4
