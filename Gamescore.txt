@@ -2,3 +2,4 @@ Level 1 - Coruscant Conquest: 32
 Level 2 - Felucia Conquest: 11
 Level 3 - Geonosis Conquest: 28
 Level 4 - Geonosis Hunt: 17
+Level 5 - Jabba's Palace Conquest: 59
