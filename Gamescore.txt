@@ -1,1 +1,30 @@
-# DGM260R
+Level 1 - Coruscant Conquest: 32
+Level 2 - Felucia Conquest: 11
+Level 3 - Geonosis Conquest: 28
+Level 4 - Geonosis Hunt: 17
+Level 5 - Jabba's Palace Conquest: 59
+Level 6 - Kamino Conquest: 61
+Level 7 - Mos Eisley Conquest: 39
+Level 8 - Mygeeto Conquest: 61
+Level 9 - Naboo Conquest: 68
+Level 10 - Naboo Hunt: 4
+Level 11 - Polis Massa Conquest: 13
+Level 12 - Mos Eisley Hunt: 12
+Level 13 - Hoth Conquest: 91
+Level 14 - Endor Conquest: 60
+Level 15 - Endor Hunt: 51
+Level 16 - Coruscant Assault: 30
+Level 17 - Kamino CTF: 23
+Level 18 - Mos Eisley CTF: 16
+Level 19 - Jabba's Palace CTF: 25
+Level 20 - Mygeeto Assault: 36
+Level 21 - Geonosis CTF: 31
+Level 22 - Jabba's Palace Assault: 15
+Level 23 - Endor CTF: 9
+Level 24 - Polis Massa CTF: 23
+Level 25 - Hoth Hunt: 33
+Level 26 - Felucia Hunt: 20
+Level 27 - Coruscant Hunt: 31
+Level 28 - Tantive IV Conquest: 15
+Level 29 - Tantive IV CTF: 7
+Level 30 - Felucia CTF: 32
