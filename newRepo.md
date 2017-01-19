@@ -1,1 +1,3 @@
-Pinball Score round 1: 30
+Pinball Score: 
+Round 1: 30
+Round 2: 63
