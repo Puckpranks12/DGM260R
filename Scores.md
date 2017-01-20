@@ -16,3 +16,4 @@ Level 2: 31
 Level 3: 25
 Level 4: 67
 Level 5: 15
+Level 6: 47
