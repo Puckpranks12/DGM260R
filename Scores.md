@@ -1,3 +1,3 @@
-Mass Effect II Platinum:
+Mass Effect II Platinum: Level 1: 35 Platinum
 Lego Star Wars III Stud Count:
 Star Wars Battlefront II Score:
