@@ -1,6 +1,7 @@
 Mass Effect II Platinum: 
 Level 1: 35 Platinum 
 Level 2: 50 Platinum
+Level 3: 45 Platinum
 
 Lego Star Wars III Stud Count: 
 Level 1: 2300 studs 
