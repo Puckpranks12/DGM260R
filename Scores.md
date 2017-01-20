@@ -9,3 +9,5 @@ Level 2: 3100 studs
 Star Wars Battlefront II Score: 
 Level 1: 45 
 Level 2: 31
+Level 3: 25
+Level 4: 67
