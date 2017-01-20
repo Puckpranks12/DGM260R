@@ -6,6 +6,7 @@ Lego Star Wars III Stud Count:
 Level 1: 2300 studs 
 Level 2: 3100 studs
 Level 3: 2700 studs
+Level 4: 3200 studs
 
 Star Wars Battlefront II Score: 
 Level 1: 45 
