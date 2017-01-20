@@ -9,6 +9,7 @@ Level 1: 2300 Studs
 Level 2: 3100 Studs
 Level 3: 2700 Studs
 Level 4: 3200 Studs
+Level 5: 4500 Studs
 
 Star Wars Battlefront II Score: 
 Level 1: 45 
