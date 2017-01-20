@@ -4,7 +4,7 @@ Level 2: 50 Platinum
 Level 3: 45 Platinum
 Level 4: 20 Platinum
 Level 5: 35 Platinum
-Level 6: 40 Platinum
+Level 6: 55 Platinum
 
 Lego Star Wars III Stud Count: 
 Level 1: 2300 Studs 
